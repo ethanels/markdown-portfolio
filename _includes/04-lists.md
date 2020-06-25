@@ -1,4 +1,4 @@
 * Interests
-  * Climbing
+  * Climbing :goat:
   * Coding
-  * Naps
+  * Naps :sleeping: 
