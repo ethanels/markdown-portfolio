@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### The awesome stuff
+**Traveld to _47_ states in the union**
+_Public speaking and advocating for commuity developments fules my fire!_
